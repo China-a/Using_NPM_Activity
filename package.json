@@ -1,0 +1,22 @@
+{
+  "name": "using_npm_activity",
+  "version": "1.0.0",
+  "description": "NPM Activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/China-a/Using_NPM_Activity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/China-a/Using_NPM_Activity/issues"
+  },
+  "homepage": "https://github.com/China-a/Using_NPM_Activity#readme",
+  "dependencies": {
+    "moment": "^2.29.2"
+  }
+}
